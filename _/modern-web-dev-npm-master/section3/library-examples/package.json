@@ -1,0 +1,21 @@
+{
+  "name": "modern-web-dev-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "neutrino start --use neutrino-preset-react",
+    "build": "neutrino build --use neutrino-preset-react"
+  },
+  "devDependencies": {
+    "neutrino": "^6.1.1",
+    "neutrino-preset-react": "^6.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "superagent": "^3.5.2",
+    "superagent-es6-promise": "^1.0.0"
+  }
+}

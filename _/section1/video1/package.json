@@ -1,0 +1,14 @@
+{
+  "name": "modern-web-dev-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  }
+}

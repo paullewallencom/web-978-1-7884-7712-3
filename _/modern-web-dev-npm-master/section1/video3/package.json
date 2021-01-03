@@ -1,0 +1,12 @@
+{
+  "name": "modern-web-dev-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "say:hello": "echo 'Hello'",
+    "emoji": "emoji dog"
+  },
+  "devDependencies": {
+    "emoji-cli": "^1.0.0"
+  }
+}
